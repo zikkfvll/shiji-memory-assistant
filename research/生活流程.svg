@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">一次生活活动从准备到后来回忆</title><desc id="desc">活动前记录，事情变化时更新，活动中接续，活动后留下经历，之后自主选择线索与反馈。反馈与原始证据分别保存。</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#397470" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="500" fill="#f5f8f9"/>
+<g font-family="Microsoft YaHei, sans-serif" fill="#253c40">
+<text x="45" y="60" font-size="28" font-weight="bold">先看完整经历，再决定研究哪一个问题</text>
+<text x="45" y="95" font-size="16" fill="#647b80">示例是准备并参加一次亲友见面；不是限定产品只能服务这一种活动。</text>
+<g fill="#fff" stroke="#b8ccce"><rect x="45" y="145" width="190" height="160" rx="12"/><rect x="275" y="145" width="190" height="160" rx="12"/><rect x="505" y="145" width="190" height="160" rx="12"/><rect x="735" y="145" width="190" height="160" rx="12"/><rect x="965" y="145" width="190" height="160" rx="12"/></g>
+<g font-size="21" font-weight="bold"><text x="65" y="185">活动前</text><text x="295" y="185">事情变化</text><text x="525" y="185">活动中</text><text x="755" y="185">活动后</text><text x="985" y="185">之后回忆</text></g>
+<g font-size="15"><text x="65" y="220">留下一句话或照片</text><text x="65" y="249">记录安排及其背景</text><text x="295" y="220">区分改期与说错</text><text x="295" y="249">关联原话和来源</text><text x="525" y="220">找回当前进度</text><text x="525" y="249">依据不明时可核对</text><text x="755" y="220">留下愿意保存的经历</text><text x="755" y="249">不补造缺失细节</text><text x="985" y="220">选答案或真实线索</text><text x="985" y="249">表达反馈或暂停</text></g>
+<g stroke="#397470" stroke-width="2" fill="none" marker-end="url(#arrow)"><path d="M239 225H266"/><path d="M469 225H496"/><path d="M699 225H726"/><path d="M929 225H956"/><path d="M1060 311V370H140V314"/></g>
+<rect x="355" y="345" width="490" height="48" rx="8" fill="#e6f0ed"/>
+<text x="377" y="375" font-size="16">后续反馈影响下一次帮助，但不自动成为事实或能力结论</text>
+<text x="45" y="447" font-size="16">分别观察：任务完成、错误帮助、输入与纠错负担、回忆准确性、交流体验。</text>
+<text x="45" y="477" font-size="13" fill="#647b80">当前材料用于原型与研究启动。没有真实人类效果、临床疗效或新算法优越性结论。</text>
+</g></svg>
